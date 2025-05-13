@@ -20,7 +20,7 @@
 
 ### 🧰 Tech Stack
 
-- **Languages**: Python, SQL, Bash  
+- **Languages**: Python, SQL,
 - **ML & AI**: Scikit-learn, TensorFlow, XGBoost, Keras, NLP, RAG, GenAI  
 - **Data**: Pandas, NumPy, OpenPyXL, Power BI, Streamlit  
 - **Tools**: Git, Flask, Docker, AWS EC2, VS Code  
