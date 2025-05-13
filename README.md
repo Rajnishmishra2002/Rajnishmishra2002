@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently working on **machine learning automation at Nokia**
+🔭 I’m currently working on **Machine learning automation at Nokia**
 
 🌱 I’m exploring **Generative AI, LLMs, and AI Agents**
 
