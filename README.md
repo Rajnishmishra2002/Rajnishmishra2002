@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajnish Mishra</h1>
-<h3 align="center">Data Scientist | ML Engineer | AI Enthusiast</h3>
+<h3 align="center"> Upcoming Data Scientist | ML Engineer | AI Enthusiast</h3>
 
 ---
 
-🔭 I’m currently working on **Machine learning automation at Nokia**
+🔭 I’m currently working on **Machine learning automation Intern at Nokia**
 
 🌱 I’m exploring **Generative AI, LLMs, and AI Agents**
 
