@@ -12,9 +12,9 @@
 - 🏘 Real Estate Price Prediction and Recommender
 - 📊 Data Visualization with Power BI and Streamlit
 
-Research Work 
-Alzheimer’s Disease Detection via Multiscale Feature Modelling Using Improved Spatial Attention Guided Depth Separable CNN
-url - https://link.springer.com/article/10.1007/s44196-024-00502-y
+Research Work: 
+  Alzheimer’s Disease Detection via Multiscale Feature Modelling Using Improved Spatial Attention Guided Depth Separable CNN
+  url - https://link.springer.com/article/10.1007/s44196-024-00502-y
 
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rajnishmishra2)](https://linkedin.com/in/rajnishmishra2)  
