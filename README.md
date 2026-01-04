@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently working on **Machine learning automation Intern at Nokia**
+🔭 I’m currently working as **Automation and Data Analyst Intern at Nokia**
 
 🌱 I’m exploring **Generative AI, LLMs, and AI Agents**
 
